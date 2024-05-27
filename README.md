@@ -16,6 +16,7 @@ This project is a recipe sharing platform built using Flask framework for REST A
 - `POST /register`: Register a new user.
 - `POST /login`: Log in an existing user.
 - `GET /recipes`: Get recipes owned by the authenticated user.
+- GET / Review : Get review and rating given for recipe.
 - Additional endpoints for CRUD operations, search, filter, rating, and reviews can be added.
 
 ## Dependencies
